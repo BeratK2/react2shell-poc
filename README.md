@@ -27,9 +27,10 @@ You can then run the script with the following arguments:
 -t: The target IP or URL.
 -c: The command you wish to run on the target server. (Use quotes for commands with space)
 
-```python
+```bash
 python3 exploit.py -t https://localhost:3000 -c ls
 ```
+
 
 
 
