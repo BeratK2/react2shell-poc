@@ -29,6 +29,7 @@ You can then run the script with the following arguments:
 
 ```python
 python3 exploit.py -t https://localhost:3000 -c ls
+```
 
 
 
