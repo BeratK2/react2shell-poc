@@ -20,7 +20,7 @@ This script injects a payload to run a parsed command to a desired server.
 
 You'll first need to make sure the requests library is enabled:
 ```bash
-pir install requests
+pip install requests
 ```
 
 You can then run the script with the following arguments:
